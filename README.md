@@ -80,7 +80,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 ![Screenshot 2024-03-13 152531](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/523d3d1f-416e-46fc-b087-8e2e92053a69)
 
 ## Output:
-![Screenshot 2024-03-13 153234](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/f207de9e-70e8-480c-805b-7bba6eba26d7)
+![Screenshot 2024-09-26 100811](https://github.com/user-attachments/assets/46e708cf-2397-4a3a-bc94-aab427f2a92c)
+
 
 
 
