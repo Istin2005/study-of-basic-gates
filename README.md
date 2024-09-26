@@ -70,7 +70,8 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  RegisterNumber: 212223040068
 
  ## PROGRAM
- ![Screenshot 2024-03-13 153354](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/91cd9c06-dc03-4c8c-9aca-5f9e3eab0189)
+![Screenshot 2024-09-26 100542](https://github.com/user-attachments/assets/1f6f39e2-5d25-4cea-815a-8117ed769c15)
+
 
 ## Logic symbol & Truthtable
 ![Screenshot 2024-03-13 153758](https://github.com/04Varsha/study-of-basic-gates/assets/149035374/f9705d15-097d-41f0-938e-727ac8c817fe)
